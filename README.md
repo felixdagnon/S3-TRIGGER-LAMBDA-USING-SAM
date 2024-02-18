@@ -70,7 +70,7 @@ Let's check s3 bucket
 
 # Deploying lambda package with SAM
 
-To deploy the package rune the below command
+To deploy the package run the below command
 
 $ sam deploy --template-file lambda-events-s3-packaged.yml --stack-name SAM-S3-events --capabilities CAPABILITY_IAM
 
