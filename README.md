@@ -2,7 +2,7 @@
 
 We continuous with our last demo (Deploying-Serverless-Application-with-AWS-SAM)
 
-in this demo We're going to create an S3 bucket that will trigger our lambda function any time a file is uploaded. 
+in this demo We're going to create an S3 bucket that will trigger our lambda function any time a file is uploaded.
 
 In the template.yaml file, we're going to add additional resources. 
 
