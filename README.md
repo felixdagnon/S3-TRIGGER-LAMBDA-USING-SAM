@@ -1,4 +1,4 @@
-# S3-TRIGGER-LAMBDA-USING-SAM
+# S3-trigger-lambda-using-SAM
 
 We continuous with our last demo (Deploying-Serverless-Application-with-AWS-SAM)
 
