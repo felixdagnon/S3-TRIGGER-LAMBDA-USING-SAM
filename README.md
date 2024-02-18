@@ -6,6 +6,7 @@ in this demo We're going to create an S3 bucket that will trigger our lambda fun
 
 In the template.yaml file, we're going to add additional resources. 
 
+We use this link to add additional resources; https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-property-function-eventsource.html
 
 ```json
 Description: Test Pipeline Lambda
