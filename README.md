@@ -65,7 +65,7 @@ It take the code from local directory and put it in s3 bucket.
 
 Let's check s3 bucket
 
-![image](https://github.com/felixdagnon/S3-TRIGGER-LAMBDA-USING-SAM/assets/91665833/05fb7c00-8957-451f-93d0-29d3dedacb5d)
+![image](https://github.com/felixdagnon/S3-TRIGGER-LAMBDA-USING-SAM/assets/91665833/5d2e14c9-23e8-4d5d-b905-f24b1c16d2a7)
 
 # Deploying lambda package with SAM
 
