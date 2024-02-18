@@ -87,9 +87,32 @@ Let's check in lambda console
 
 Lambda deployment succeed
 
+There is no trigger here but we can check it in S3 bucket
+
 ![image](https://github.com/felixdagnon/S3-TRIGGER-LAMBDA-USING-SAM/assets/91665833/1922c5d3-6ac1-48ac-b5f9-c66a533e2f17)
 
+
 ![image](https://github.com/felixdagnon/S3-TRIGGER-LAMBDA-USING-SAM/assets/91665833/ba3bcd0b-7d67-4724-9d58-c538f264b601)
+
+
+Let's check S3 bucket
+
+Properties
+
+![image](https://github.com/felixdagnon/S3-TRIGGER-LAMBDA-USING-SAM/assets/91665833/a08fab95-b99e-4381-a549-ac3bee5c731b)
+
+scrowl down to "Event notifications"
+
+![image](https://github.com/felixdagnon/S3-TRIGGER-LAMBDA-USING-SAM/assets/91665833/7972b12d-d660-494d-8877-f38c1855a961)
+
+
+
+
+
+
+
+
+
 
 
 
