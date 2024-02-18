@@ -103,8 +103,7 @@ Properties
 
 scrowl down to "Event notifications"
 
-![image](https://github.com/felixdagnon/S3-TRIGGER-LAMBDA-USING-SAM/assets/91665833/7972b12d-d660-494d-8877-f38c1855a961)
-
+![image](https://github.com/felixdagnon/S3-TRIGGER-LAMBDA-USING-SAM/assets/91665833/97332493-5c39-4496-933d-8d6c669ee076)
 
 
 
