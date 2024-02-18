@@ -6,7 +6,7 @@ in this demo We're going to create an S3 bucket that will trigger our lambda fun
 
 In the template.yaml file, we're going to add additional resources. 
 
-We use this link to add additional resources from event souce types  (github page)
+We are going to add additional resources from event souce types  (github page)
 
 ```json
 Description: Test Pipeline Lambda
