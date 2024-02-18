@@ -58,7 +58,7 @@ Let's run this package lambda-events-s3.yml:
 
 $ sam package --template-file lambda-events-s3.yml --s3-bucket demotest-101 --output-template-file  lambda-events-s3-packaged.yml
 
-The pacckage is downloaded in SAM repo of Cloud9
+The package is downloaded in SAM directory of Cloud9
 
 ![image](https://github.com/felixdagnon/S3-TRIGGER-LAMBDA-USING-SAM/assets/91665833/80822480-ac66-4229-997b-2702f26a2156)
 
@@ -74,7 +74,7 @@ To deploy the package run the below command
 
 $ sam deploy --template-file lambda-events-s3-packaged.yml --stack-name SAM-S3-events --capabilities CAPABILITY_IAM
 
-The package is running and changeset created in cloudformation
+The package is done and changeset created in cloudformation
 
 ![image](https://github.com/felixdagnon/S3-TRIGGER-LAMBDA-USING-SAM/assets/91665833/e5a2aa26-b720-4816-ae0e-2f05b2ab1150)
 
