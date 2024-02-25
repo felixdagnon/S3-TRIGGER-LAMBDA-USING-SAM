@@ -8,7 +8,7 @@ In the template.yaml file, we're going to add additional resources.
 
 We are going to add additional resources from event souce types  (github page)
 
-```json
+```yml
 Description: Test Pipeline Lambda
 Resources:
   samfunction:
@@ -25,7 +25,7 @@ Resources:
 
 Here is the final template  for lambda-events-s3.yml
 
-```json
+```yml
 AWSTemplateFormatVersion: '2010-09-09'
 Transform: 'AWS::Serverless-2016-10-31'
 Description: Test Pipeline Lambda
