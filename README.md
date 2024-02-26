@@ -1,4 +1,4 @@
-# S3-trigger-lambda-using-SAM
+# 1-S3-trigger-lambda-using-SAM
 
 We continuous with our last demo (Deploying-Serverless-Application-with-AWS-SAM)
 
@@ -52,7 +52,7 @@ Resources:
 
 This template lambda-events-s3.yml create unique bucket fur us which will use to trigger lambda
 
-# Create lambda template with SAM
+# 2-Create lambda template with SAM
 
 Let's run this package lambda-events-s3.yml:
 
@@ -68,7 +68,7 @@ Let's check s3 bucket
 
 ![image](https://github.com/felixdagnon/S3-TRIGGER-LAMBDA-USING-SAM/assets/91665833/5d2e14c9-23e8-4d5d-b905-f24b1c16d2a7)
 
-# Deploying lambda package with SAM
+# 3-Deploying lambda package with SAM
 
 To deploy the package run the below command
 
